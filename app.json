@@ -4,11 +4,4 @@
     "keywords": [ "lukeocodes" ],
     "website": "https://avocado.dev",
     "repository": "https://github.com/lukeocodes/bff-talk-demo",
-    "env": {
-      "PORT": {
-        "description": "The port Express will run on.",
-        "value": "3000",
-        "required": true
-      }
-    }
   }
