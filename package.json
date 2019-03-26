@@ -1,0 +1,14 @@
+{
+  "name": "bff-talk-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luke Oliff",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
